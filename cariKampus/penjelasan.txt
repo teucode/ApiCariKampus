@@ -1,0 +1,6 @@
+untuk dapat menjalankan api ini, langkah yang diperlukan adalah:
+1. pindah file pada server
+2. ganti server pada file koneksi.php
+3. import database tesap.sql pada server anda
+4. coba jalankan pada web server 
+saya juga menggunakan html untuk membantu menampilkan hasil dari api yang saya buat
